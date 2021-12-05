@@ -1,0 +1,666 @@
+[
+  {
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\index.js": "1",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\reportWebVitals.js": "2",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\App.js": "3",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\index.js": "4",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\Home.js": "5",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\About.js": "6",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\components\\Navbar.js": "7",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\Management\\UserManagement.js": "8",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\components\\Footer.jsx": "9",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\index.js": "10",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\UserActions.js": "11",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\MeActions.js": "12",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\types.js": "13",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\config\\localApi.js": "14",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\config\\api.js": "15",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\configureStore.js": "16",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\index.js": "17",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\MeReducer.js": "18",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\UserReducer.js": "19",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\index.js": "20",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\About.js": "21",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\Home.js": "22",
+    "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\Management\\UserManagement.js": "23"
+  },
+  {
+    "size": 517,
+    "mtime": 1630946304413,
+    "results": "24",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 375,
+    "mtime": 1630946304413,
+    "results": "26",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 630,
+    "mtime": 1637416696941,
+    "results": "27",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 3386,
+    "mtime": 1637415921992,
+    "results": "28",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 1364,
+    "mtime": 1637415732876,
+    "results": "29",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 206,
+    "mtime": 1637415732875,
+    "results": "30",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 532,
+    "mtime": 1637415732874,
+    "results": "31",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 3456,
+    "mtime": 1637415922007,
+    "results": "32",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 550,
+    "mtime": 1637416012861,
+    "results": "33",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 62,
+    "mtime": 1637417998489,
+    "results": "34",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 2611,
+    "mtime": 1637415905267,
+    "results": "35",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 1269,
+    "mtime": 1637415905188,
+    "results": "36",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 973,
+    "mtime": 1637415732880,
+    "results": "37",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 334,
+    "mtime": 1637415732875,
+    "results": "38",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 341,
+    "mtime": 1637415732874,
+    "results": "39",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 888,
+    "mtime": 1637416764980,
+    "results": "40",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 241,
+    "mtime": 1637418024505,
+    "results": "41",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 462,
+    "mtime": 1637415732878,
+    "results": "42",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 775,
+    "mtime": 1637415732879,
+    "results": "43",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 3288,
+    "mtime": 1637417461520,
+    "results": "44",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 206,
+    "mtime": 1637415732875,
+    "results": "45",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 562,
+    "mtime": 1637416961539,
+    "results": "46",
+    "hashOfConfig": "25"
+  },
+  {
+    "size": 3456,
+    "mtime": 1637415922007,
+    "results": "47",
+    "hashOfConfig": "25"
+  },
+  {
+    "filePath": "48",
+    "messages": "49",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  "fxi11h",
+  {
+    "filePath": "51",
+    "messages": "52",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "53",
+    "messages": "54",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "55",
+    "messages": "56",
+    "errorCount": 0,
+    "warningCount": 3,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "source": null
+  },
+  {
+    "filePath": "57",
+    "messages": "58",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "59",
+    "messages": "60",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "61",
+    "messages": "62",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "63",
+    "messages": "64",
+    "errorCount": 0,
+    "warningCount": 1,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "source": null
+  },
+  {
+    "filePath": "65",
+    "messages": "66",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "67",
+    "messages": "68",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "69",
+    "messages": "70",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "71",
+    "messages": "72",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "73",
+    "messages": "74",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "75",
+    "messages": "76",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "77",
+    "messages": "78",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "79",
+    "messages": "80",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "81",
+    "messages": "82",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "83",
+    "messages": "84",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "85",
+    "messages": "86",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "87",
+    "messages": "88",
+    "errorCount": 0,
+    "warningCount": 3,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "source": null
+  },
+  {
+    "filePath": "89",
+    "messages": "90",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "91",
+    "messages": "92",
+    "errorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "93",
+    "messages": "94",
+    "errorCount": 0,
+    "warningCount": 1,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "source": null
+  },
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\index.js",
+  [],
+  [
+    "95",
+    "96"
+  ],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\reportWebVitals.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\App.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\index.js",
+  [
+    "97",
+    "98",
+    "99"
+  ],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\Home.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\About.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\components\\Navbar.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\Containers\\Management\\UserManagement.js",
+  [
+    "100"
+  ],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\components\\Footer.jsx",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\index.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\UserActions.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\actions\\MeActions.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\types.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\config\\localApi.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\config\\api.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\configureStore.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\index.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\MeReducer.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\redux\\reducers\\UserReducer.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\index.js",
+  [
+    "101",
+    "102",
+    "103"
+  ],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\About.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\Home.js",
+  [],
+  "D:\\TheDuckCreator\\TDC-React-Template\\Frontend\\src\\containers\\Management\\UserManagement.js",
+  [
+    "104"
+  ],
+  {
+    "ruleId": "105",
+    "replacedBy": "106"
+  },
+  {
+    "ruleId": "107",
+    "replacedBy": "108"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "110",
+    "line": 51,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 51,
+    "endColumn": 8,
+    "suggestions": "112"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "110",
+    "line": 63,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 63,
+    "endColumn": 27,
+    "suggestions": "113"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "114",
+    "line": 72,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 72,
+    "endColumn": 10,
+    "suggestions": "115"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "116",
+    "line": 21,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 21,
+    "endColumn": 8,
+    "suggestions": "117"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "110",
+    "line": 48,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 48,
+    "endColumn": 8,
+    "suggestions": "118"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "110",
+    "line": 58,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 58,
+    "endColumn": 27,
+    "suggestions": "119"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "114",
+    "line": 67,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 67,
+    "endColumn": 10,
+    "suggestions": "120"
+  },
+  {
+    "ruleId": "109",
+    "severity": 1,
+    "message": "116",
+    "line": 21,
+    "column": 6,
+    "nodeType": "111",
+    "endLine": 21,
+    "endColumn": 8,
+    "suggestions": "121"
+  },
+  "no-native-reassign",
+  [
+    "122"
+  ],
+  "no-negated-in-lhs",
+  [
+    "123"
+  ],
+  "react-hooks/exhaustive-deps",
+  "React Hook useEffect has a missing dependency: 'dispatch'. Either include it or remove the dependency array.",
+  "ArrayExpression",
+  [
+    "124"
+  ],
+  [
+    "125"
+  ],
+  "React Hook useEffect has a missing dependency: 'isAllow'. Either include it or remove the dependency array.",
+  [
+    "126"
+  ],
+  "React Hook useEffect has missing dependencies: 'dispatch' and 'isReady'. Either include them or remove the dependency array.",
+  [
+    "127"
+  ],
+  [
+    "128"
+  ],
+  [
+    "129"
+  ],
+  [
+    "130"
+  ],
+  [
+    "131"
+  ],
+  "no-global-assign",
+  "no-unsafe-negation",
+  {
+    "desc": "132",
+    "fix": "133"
+  },
+  {
+    "desc": "134",
+    "fix": "135"
+  },
+  {
+    "desc": "136",
+    "fix": "137"
+  },
+  {
+    "desc": "138",
+    "fix": "139"
+  },
+  {
+    "desc": "132",
+    "fix": "140"
+  },
+  {
+    "desc": "134",
+    "fix": "141"
+  },
+  {
+    "desc": "136",
+    "fix": "142"
+  },
+  {
+    "desc": "138",
+    "fix": "143"
+  },
+  "Update the dependencies array to be: [dispatch]",
+  {
+    "range": "144",
+    "text": "145"
+  },
+  "Update the dependencies array to be: [isReady, isLoggedIn, dispatch]",
+  {
+    "range": "146",
+    "text": "147"
+  },
+  "Update the dependencies array to be: [isAllow, me]",
+  {
+    "range": "148",
+    "text": "149"
+  },
+  "Update the dependencies array to be: [dispatch, isReady]",
+  {
+    "range": "150",
+    "text": "151"
+  },
+  {
+    "range": "152",
+    "text": "145"
+  },
+  {
+    "range": "153",
+    "text": "147"
+  },
+  {
+    "range": "154",
+    "text": "149"
+  },
+  {
+    "range": "155",
+    "text": "151"
+  },
+  [
+    1747,
+    1749
+  ],
+  "[dispatch]",
+  [
+    2002,
+    2023
+  ],
+  "[isReady, isLoggedIn, dispatch]",
+  [
+    2174,
+    2178
+  ],
+  "[isAllow, me]",
+  [
+    694,
+    696
+  ],
+  "[dispatch, isReady]",
+  [
+    1563,
+    1565
+  ],
+  [
+    1747,
+    1768
+  ],
+  [
+    1919,
+    1923
+  ],
+  [
+    694,
+    696
+  ]
+]
